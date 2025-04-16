@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banismo website" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-16T14:59:59" hostname="50HW018598" time="29.425">
+  <properties/>
+  <testcase name="download the pdf in de wed site to banistmo" classname="banismo website" time="29.425"/>
+  <system-out><![CDATA[?[92m|-- Given go in the web site to banistmo and go to click on de cockies button?[0m
+?[92m|---- Automation click button cookies task?[0m
+?[92m|------ Automation clicks on click in the button cookies?[0m
+?[92m|-- When we click on the button Aprender es facil?[0m
+?[92m|---- Automation click button aprender task?[0m
+?[92m|------ Automation clicks on click in the button APRENDER?[0m
+?[92m|-- And we click on the button conocer mas in legales?[0m
+?[92m|---- Automation click button legales task?[0m
+?[92m|------ Automation clicks on click in the button APRENDER?[0m
+?[92m|-- And we click on the button conocer mas in the FATCA?[0m
+?[92m|---- Automation click button fatca task?[0m
+?[92m|------ Automation clicks on click in the button APRENDER?[0m
+?[92m|-- And click on the pdf download?[0m
+?[92m|---- Automation click butt download task?[0m
+?[92m|------ Automation clicks on click in the button APRENDER?[0m
+?[92m|-- Then pdf validate?[0m
+?[92m|---- Automation cambio?[0m
+?[92m|---- Automation wait?[0m
+?[92m|---- Automation cambio?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.docker-java:docker-java:3.3.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java/3.3.3/aaf4d15070805869fabab3c525d6fe57d6057f18/docker-java-3.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java/3.3.3/93affe5d2101bb100975c7e72fe167121358c70e/docker-java-3.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

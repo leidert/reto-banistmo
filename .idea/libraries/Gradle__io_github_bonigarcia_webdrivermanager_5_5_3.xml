@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.bonigarcia:webdrivermanager:5.5.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/5.5.3/c705d2acb84f484ff0ddd6e9995fa5e5f22f89dc/webdrivermanager-5.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/5.5.3/a485f4da91944daeb59e021f51fc0a8c73d1e7af/webdrivermanager-5.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
